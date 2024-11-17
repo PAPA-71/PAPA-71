@@ -2,7 +2,7 @@
 
 <p align="center"> 
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
- <img src="https://profile-counter.glitch.me/James404-cyber/count.svg" />
+ <img src="" />
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HELLO+FRIENDS;HOW+ARE+YOU+,DID+YOU+FOLLOW+MY+GITHUB+.+.+.+?;FOLLOW+MY+GITHUB)](https://git.io/typing-svg)
